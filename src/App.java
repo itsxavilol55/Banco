@@ -1,3 +1,6 @@
+/**
+ * It's a GUI that reads a file and displays the data in a table
+ */
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
